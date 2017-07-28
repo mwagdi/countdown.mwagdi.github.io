@@ -1,0 +1,13 @@
+.App{
+    text-align: center;
+}
+
+.clock{
+    display: inline;
+    margin: 7px;
+}
+
+.App-title{
+    font-weight: bold;
+    font-size: 20px;
+}
